@@ -21,7 +21,7 @@ git clone https://github.com/tyler-reitz/cover_letter.sh.git
 ## Usage
 
 ```
-$ ./cover_letter.sh
+$ ./cover_letter.sh 'company' 'addressee' 'listing-source'
 ```
 
 ## Maintainers
