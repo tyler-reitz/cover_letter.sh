@@ -23,6 +23,7 @@ git clone https://github.com/tyler-reitz/cover_letter.sh.git
 ```
 $ ./cover_letter.sh 'company' 'addressee' 'listing-source'
 ```
+_copies to clipboard 📋_
 
 ## Maintainers
 
